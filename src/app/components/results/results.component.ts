@@ -1,6 +1,6 @@
 import {Component, OnInit, ViewChild} from '@angular/core';
 import {MatPaginator, MatSort, MatTableDataSource} from '@angular/material';
-import { UserService } from 'src/app/services/users.service';
+import { UserService } from '../../services/users.service';
 import { ActivatedRoute } from '@angular/router';
 
 export interface UserData {
