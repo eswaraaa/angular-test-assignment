@@ -9,11 +9,3 @@ Here you can find how the application work.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-# angular-test-assignment
-
-Some news source saying like "There's no fourth stimulus check, but many will get $1,800 before 2021 ends"
-
-
-Previous rounds of COVID stimulus payments sent money to families in the order of $1,200, $600, and $1,400 - the last one being part of the American Rescue Plan signed into law by President Biden in March of 2021. The American Rescue Plan also sent money directly to families in the form of the expanded federal Child Tax Credit. The first half of the newly expanded credit is being delivered directly to families.
-
-
