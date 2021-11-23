@@ -1,6 +1,6 @@
 # Angular 8 Application with Github API
 
-Here you can find how the application work.
+Here you can find the application flow.
 
 - Once the app is launched, the **Search** component is displayed in UI.
 - User can enters a random String value into to the 'Login User' field and on 'Submit' button.
